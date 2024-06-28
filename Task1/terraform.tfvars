@@ -1,6 +1,0 @@
-project_id = "Add the project_id"
-region = "asia-southeast1"
-service_name = "first_cloud_run"
-image_name = "hello_world"
-image_tag = "latest"
-repository_name = "cloud_run_source_deploy"
