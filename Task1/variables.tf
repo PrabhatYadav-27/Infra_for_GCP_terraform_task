@@ -30,7 +30,7 @@ variable "service_name" {
 }
 
 # variable for image_tag 
-variable "image_tag" {
+variable "image" {
     description = "Provide the image tag which is to be use"
     type = string
   
