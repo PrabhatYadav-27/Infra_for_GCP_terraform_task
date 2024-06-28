@@ -1,7 +1,7 @@
 # Variables are used to make configuration more flexible, reusable and maintainable
 
 # Terms are to be used here
-# description = TO describe the variable which are to be define
+# description = To describe the variable which are to be define
 # type = This is used to describe the variable type
 
 
