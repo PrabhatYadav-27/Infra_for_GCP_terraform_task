@@ -1,0 +1,1 @@
+### The goal is to setup new organization according to already defined blueprint  using `terraform` 
